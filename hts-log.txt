@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 May 2024 13:22:31 at https://www.7seasinternationals.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.7seasinternationals.com/ -O1 "C:\Users\User\Desktop\DUN" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:23:25	Error: 	"Not Found" (404) at link https://www.7seasinternationals.com/img/sitemap-back.jpg (from https://www.7seasinternationals.com/css/style.css)
+13:23:25	Error: 	"Not Found" (404) at link https://www.7seasinternationals.com/1 (from https://www.7seasinternationals.com/company-profile.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 21 seconds : 210 links scanned, 206 files written (11669718 bytes overall) [11377801 bytes received at 80693 bytes/sec], 473205 bytes transferred using HTTP compression in 16 files, ratio 20%, 9.5 requests per connection
+(2 errors, 0 warnings, 0 messages)

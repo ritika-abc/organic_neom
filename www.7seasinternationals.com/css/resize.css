@@ -1,0 +1,19 @@
+ @media only screen and (max-width: 1200px) { }
+
+ @media only screen and (max-width: 991px) {
+     
+     .pro-view img {
+         width: 300px;
+     }
+ }
+
+ @media only screen and (max-width: 767px) {
+     
+     .pro-view img {
+         width: initial;
+         margin: 0 0 2rem;
+     }
+     
+ }
+
+ @media only screen and (max-width: 575px) { }
